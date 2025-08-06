@@ -16,7 +16,7 @@ Then identify the highest cost per Cost-Element in each units follow by most wat
 Analyze EBIT and EBIT ratio to locate the most profit generating unit. 
 
 
-4. 🛠️ Skills & Tools Used
+🛠️ Skills & Tools Used
 
 Excel Functions: SUMIFS, EBIT
 
@@ -30,13 +30,13 @@ Forecasting using Excel built-in tools
 
 
 
-5. 🧠 Key Insights
+🧠 Key Insights
 Concluding our analysis, Jutik has the highest overall EBIT contributions ($_72.9__M), followed by Surjek($__22.9_M) , and lastly Kootha ($_19.72_M).
 
 However, from an EBIT  Margin (%) perspective, Kootha has a higher margin than that of Surjek, indicative of a lower revenue-to-expense ratio.¹
 
 
-7. 📁 Files Included
+📁 Files Included
 Briefly describe what files are in the repo.
 
 Example:
@@ -47,6 +47,6 @@ README.md: Project overview and documentation.
 
 RawData.csv: Original sales data (anonymized).
 
-7. 📸 Screenshots (optional but highly recommended)
+📸 Screenshots (optional but highly recommended)
 <img width="1225" height="646" alt="image" src="https://github.com/user-attachments/assets/034babce-fd07-48d6-8e87-522494c582d2" />
 
